@@ -1,6 +1,8 @@
 #!/bin/bash
 
 # This is script for insatll and enable nginx
+#
+echo ====Installing nginx=========
 
 sudo apt-get update -y
 
